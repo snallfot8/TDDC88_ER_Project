@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# TDDC88_ER_Project
+
+Patient system for ER in Linköping, Norrköping and Motala hospitals, developed in the course TDDC88 taught at Linköping University. In my role as Line Manager, I was responsible for setting up cross-functional teams, overseeing and organizing the different R\&D and P\&S functions and ensure their development and contribution. I also participated in one of the CFT:s and contributed to the stack. 
+
+
+# Instructions for running the app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
