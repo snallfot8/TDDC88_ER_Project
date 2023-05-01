@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "first_name": "Kalle",
+    "last_name": "Kalas",
+    "role": "Läkare",
+    "shift_start": "08:00",
+    "shift_end": "17:00",
+    "team": 1
+  },
+  {
+    "id": 2,
+    "first_name": "Erik",
+    "last_name": "Ek",
+    "role": "Undersköterska",
+    "shift_start": "03:00",
+    "shift_end": "11:00",
+    "team": 1
+  },
+  {
+    "id": 3,
+    "first_name": "Sanna",
+    "last_name": "Banna",
+    "role": "Sjuksköterska",
+    "shift_start": "12:00",
+    "shift_end": "22:00",
+    "team": 1
+  },
+  {
+    "id": 4,
+    "first_name": "Lukas",
+    "last_name": "Himmelsgångare",
+    "role": "Ultraljudstekniker",
+    "shift_start": "12:00",
+    "shift_end": "22:00",
+    "team": 2
+  },
+  {
+    "id": 5,
+    "first_name": "Dart",
+    "last_name": "Vidar",
+    "role": "Sjuksköterska",
+    "shift_start": "12:00",
+    "shift_end": "22:00",
+    "team": 2
+  },
+  {
+    "id": 6,
+    "first_name": "Johan",
+    "last_name": "Johannas",
+    "role": "Läkare",
+    "shift_start": "07:00",
+    "shift_end": "21:00",
+    "team": 3
+  }
+]

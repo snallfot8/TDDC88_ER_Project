@@ -1,0 +1,61 @@
+.patients-team-container {
+  padding: 1rem;
+  margin-left: 1rem;
+  min-width: 550px;
+  width: 96%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border: 2px solid #6da0ddb2;
+  border-radius: 25px;
+  background-color: rgba(109, 160, 221, 0.1);
+}
+
+.patients-team-container thead > tr > th {
+  text-align: left;
+  font-weight: bold;
+}
+
+.patients-team-container th,
+.patients-team-container td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 0;
+}
+
+.patients-team-container .patient-name {
+  width: 35%;
+}
+
+/* This SHOULD work, wtfff?!? */
+/* padding: 20px, 10px, 20px, 0px; */
+/* }  */
+
+.table-link-name {
+  text-decoration: none;
+  color: black;
+}
+
+.table-link-journal:visited {
+  color: blue;
+}
+
+/* Since Skeleton is not within the table, manually add some flexibility to it */
+
+.skeleton {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.single-skeleton {
+  width: 20%;
+}
+
+.single-skeleton:nth-child(1) {
+  width: 30%;
+}
+
+.single-skeleton:nth-child(4) {
+  width: 10%;
+}

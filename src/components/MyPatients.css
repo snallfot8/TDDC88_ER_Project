@@ -1,0 +1,56 @@
+.table-container {
+  border-collapse: collapse;
+  min-width: 550px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.table-container thead > tr {
+  background-color: #6da0ddb2;
+  text-align: left;
+  font-weight: bold;
+}
+
+.table-container th,
+td {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 0;
+
+  /* This SHOULD work, wtfff?!? */
+  /* padding: 20px, 10px, 20px, 0px; */
+}
+
+.table-container tbody > tr:nth-child(even) {
+  background-color: #6da0dd33;
+}
+
+.table-link-name {
+  text-decoration: none;
+  color: black;
+}
+
+.table-link-journal:visited {
+  color: blue;
+}
+
+/* Since Skeleton is not within the table, manually add some flexibility to it */
+
+.skeleton {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.single-skeleton {
+  width: 20%;
+}
+
+.single-skeleton:nth-child(1) {
+  width: 30%;
+}
+
+.single-skeleton:nth-child(4) {
+  width: 10%;
+}

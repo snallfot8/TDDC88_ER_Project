@@ -1,0 +1,48 @@
+.vitals-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 50vh);
+  grid-row-gap: 50px;
+}
+
+.zoom {
+  padding: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #6da0dd;
+  color: white;
+  width: 35px;
+  height: 35px;
+  border-radius: 5px;
+  z-index: 2;
+  position: absolute;
+}
+
+.pos-relative {
+  position: relative;
+}
+
+.zoom:hover {
+  cursor: pointer;
+}
+
+.zoomImg {
+  width: 25px;
+  height: 25px;
+}
+
+.pos-absolute {
+  position: absolute;
+}
+
+@media screen and (max-width: 768px) {
+  .vitals-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, 300px);
+    grid-row-gap: 100px;
+  }
+
+  .zoom {
+    display: none;
+  }
+}

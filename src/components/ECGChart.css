@@ -1,0 +1,20 @@
+.ecg-chart {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 0.2em;
+    row-gap: 0.1em;
+  }
+
+  .ecg-chart .grid-item {
+    min-width : 0px;
+    position: relative;
+  }
+
+.ecg-chart .grid-item .label { 
+  position: absolute;
+  top: 0.5em;
+  left: 1em;
+  user-select: none;
+  color: rgb(83, 83, 83);
+}
+

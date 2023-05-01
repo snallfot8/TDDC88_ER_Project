@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "timeline": [
+      {
+        "time": "13:22",
+        "event": "Ankomst till akuten",
+        "by_who": "Maria Larsson",
+        "type": "arrival"
+      },
+      {
+        "time": "13:42",
+        "event": "Tilldelad v\u00e5rdplats",
+        "by_who": "Carl Svensson",
+        "type": "location"
+      },
+      {
+        "time": "13:45",
+        "event": "Infart insatt",
+        "by_who": "Carl Svensson",
+        "type": "surgery"
+      },
+      {
+        "time": "14:01",
+        "event": "Morfin 2mg",
+        "by_who": "Lena Bengtsson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:07",
+        "event": "Unders\u00f6ka hj\u00e4rtrytm",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:12",
+        "event": "Tagen till r\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "move"
+      },
+      {
+        "time": "14:27",
+        "event": "R\u00f6ntgen",
+        "by_who": "Lena Bengtsson",
+        "type": "examination"
+      },
+      {
+        "time": "14:32",
+        "event": "Kontroll av puls",
+        "by_who": "Carl Svensson",
+        "type": "graph"
+      },
+      {
+        "time": "14:39",
+        "event": "Utdelning av medicin",
+        "by_who": "Carl Svensson",
+        "type": "medicine"
+      },
+      {
+        "time": "14:41",
+        "event": "Kontroll av puls",
+        "by_who": "Lena Bengtsson",
+        "type": "graph"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+.topbar-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+@media screen and (max-width: 768px) {
+  .no-mobile {
+    display: none;
+  }
+}

@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 3,
+    "patient_id": 2,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 4,
+    "patient_id": 2,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 5,
+    "patient_id": 3,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 6,
+    "patient_id": 3,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 7,
+    "patient_id": 4,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+
+  {
+    "id": 8,
+    "patient_id": 4,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 9,
+    "patient_id": 5,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 10,
+    "patient_id": 5,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 11,
+    "patient_id": 6,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 12,
+    "patient_id": 6,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 13,
+    "patient_id": 7,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 14,
+    "patient_id": 7,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 15,
+    "patient_id": 8,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 16,
+    "patient_id": 8,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 17,
+    "patient_id": 9,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 18,
+    "patient_id": 9,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  },
+
+  {
+    "id": 19,
+    "patient_id": 10,
+    "medicine": "Fareston, 50mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-11-02",
+    "end_date": "2021-12-02"
+  },
+  {
+    "id": 20,
+    "patient_id": 10,
+    "medicine": "Fasenra, 30mg",
+    "intake": "oralt tablett",
+    "dosage": "1 tablett",
+    "interval": "om dagen",
+    "start_date": "2021-03-02",
+    "end_date": "2021-07-02"
+  }
+]
+  

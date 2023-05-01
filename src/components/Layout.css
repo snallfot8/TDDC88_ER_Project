@@ -1,0 +1,61 @@
+.layout-container {
+  overflow: hidden;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 15% 1fr;
+  grid-template-rows: 60px auto;
+  grid-template-areas:
+    "topbar topbar"
+    "sidebar content";
+}
+
+.top-bar {
+  grid-area: topbar;
+  background-color: var(--primary-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.side-bar {
+  grid-area: sidebar;
+  background-color: var(--secondary-color);
+  overflow: auto;
+}
+
+.content {
+  overflow-y: auto;
+  grid-area: content;
+  background-color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .layout-container {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 80px auto 80px;
+    grid-template-areas:
+      "topbar topbar topbar"
+      "content content content"
+      "sidebar sidebar sidebar";
+  }
+
+  /* DO NOT DELETE commented classes below until the layout is approved */
+
+  /* .layout-container {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 80px 80px auto;
+    grid-template-areas:
+      "topbar topbar topbar"
+      "sidebar sidebar sidebar"
+      "content content content";
+  } */
+
+  /* .layout-container {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 80px 80px auto;
+    grid-template-areas:
+      "sidebar sidebar sidebar"
+      "topbar topbar topbar"
+      "content content content";
+  } */
+}

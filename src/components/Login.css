@@ -1,0 +1,43 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.time {
+  font-size: xx-large;
+  color: var(--primary-color);
+  margin-bottom: 50px;
+}
+
+.login {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid var(--primary-color);
+  box-shadow: 2px 3px lightgrey;
+}
+
+.login img {
+  width: 60%;
+  height: 10%;
+}
+
+.button-login {
+  width: 40%;
+  height: 50px;
+}
+
+@media screen and (max-width: 480px) {
+  .login {
+    width: 300px;
+    height: 300px;
+    box-shadow: 1px 2px lightgrey;
+  }
+}
